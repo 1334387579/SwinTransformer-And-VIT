@@ -1,0 +1,2 @@
+数据集下载地址：https://www.kaggle.com/datasets/panwei88/rice-plant-leaf-disease-classification-v1i-folder
+训练好的模型下载地址：https://www.kaggle.com/models/panwei88/swintransformer-and-vit
